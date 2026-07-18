@@ -98,7 +98,7 @@ If you have any suggestions, improvements, or feedback, feel free to share — i
 
 ## 📌 Author
 
-**Saksham Srivastava**
+**Saksham Shrivastav**
 
 ---
 
